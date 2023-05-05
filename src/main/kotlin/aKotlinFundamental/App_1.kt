@@ -3,9 +3,9 @@ package aKotlinFundamental
 fun main() {
     val name = "Dian"
 
-    println("Hello my name is ")
+    print("Hello my name is ")
     println(name)
-    println(if (true) "Always true" else "Always false")
+    print(if (true) "Always true" else "Always false")
 }
 
 /*
